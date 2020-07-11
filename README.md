@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> -->
-  <iframe src="https://giphy.com/embed/3ohs4f2bZ4jSd2q5tS" width="100" height="80" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width="100" height="80" />
   <!-- <p><a href="https://giphy.com/gifs/hello-hi-xT9IgsPAIIH4BuFr0s"></a></p> -->
   <br><br>
   <p>
