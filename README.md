@@ -1,29 +1,28 @@
 <h1 align="center">Kaushal - @k4u5h4L</h1>
 
 <p align="center">
-  <!-- <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> -->
   <img src="https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width="100" height="80" />
-  <!-- <p><a href="https://giphy.com/gifs/hello-hi-xT9IgsPAIIH4BuFr0s"></a></p> -->
   <br><br>
   <p>
      Hey there 👋, I'm Kaushal, a student studying information science and engineering in Bengaluru. I'm a full stack developer (MERN stack), a cyber security enthusiast and an open source lover. I occasionally mess around with ML and AI with Python.
   </p>
 </p>
 
-<!-- <iframe src="https://giphy.com/embed/3ohs4f2bZ4jSd2q5tS" width="480" height="372" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smile-hello-3ohs4f2bZ4jSd2q5tS">via GIPHY</a></p> -->
-
 <h2>Get in touch <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
 
 <p> Got something in mind? Hit me up!
 
--   LinkedIn: [linkedin.com/in/kaushal-bhat-8374451a2](https://www.linkedin.com/in/kaushal-bhat-8374451a2/)
+- LinkedIn <img align="left" alt="kaushal's LinkdeIN" width="22px" src="https://media.giphy.com/media/kyWNFTml48xUubWUq3/giphy.gif" />: [linkedin.com/in/kaushal-bhat-8374451a2](https://www.linkedin.com/in/kaushal-bhat-8374451a2/)
 
--   Portfolio: [k4u5h4l.github.io](https://k4u5h4l.github.io/)
+- Mail <img align="left" align="center" alt="kaushal's mail" width="22px" src="https://media.giphy.com/media/UrCybfHo3r1kmTZfJR/giphy.gif" />: [kaushal.bhat@yahoo.com](mailto:kaushal.bhat@yahoo.com)
 
--   dev-to: [dev.to/k4u5h4l](https://dev.to/k4u5h4l)
+- Portfolio <a href="mailto:kaushal.v.bhat@gmail.com">
+  <img align="left" align="center" alt="kaushal's mail" width="22px" src="https://media.giphy.com/media/lmjnyWWSXleEckhv0c/giphy.gif" />
+  </a>: [k4u5h4l.github.io](https://k4u5h4l.github.io/)
+
+- dev-to <img align="left" align="center" alt="kaushal's Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />: [dev.to/k4u5h4l](https://dev.to/k4u5h4l)
 
 </p>
-
 
 <!--
 **k4u5h4L/k4u5h4L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
