@@ -24,6 +24,8 @@
 
 </p>
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=k4u5h4L.visitor-badge)
+
 <!--
 **k4u5h4L/k4u5h4L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
