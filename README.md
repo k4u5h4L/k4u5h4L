@@ -23,9 +23,8 @@
 - dev-to <img align="left" align="center" alt="kaushal's Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />: [dev.to/k4u5h4l](https://dev.to/k4u5h4l)
 
 </p>
-<p align-"center">
+<br><br>
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=k4u5h4L.visitor-badge)
-</p>
 
 <!--
 **k4u5h4L/k4u5h4L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
