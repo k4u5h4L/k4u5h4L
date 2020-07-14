@@ -6,11 +6,17 @@
   <p>
      Hey there 👋, I'm Kaushal, a student studying information science and engineering in Bengaluru. I'm a full stack developer (MERN stack), a cyber security enthusiast and an open source lover. I occasionally mess around with ML and AI with Python.
   </p>
+
+  <br>
+
+  <!-- <details>
+    ![My github stats](https://github-readme-stats.vercel.app/api?username=k4u5h4L&show_icons=true)
+  </details> -->
 </p>
 
 <h2>Get in touch <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
 
-<p> Got something in mind? Hit me up!
+<!-- <p align="center"> Got something in mind? Hit me up!</p>
 
 - LinkedIn <img align="left" alt="kaushal's LinkdeIN" width="22px" src="https://media.giphy.com/media/kyWNFTml48xUubWUq3/giphy.gif" />: [linkedin.com/in/kaushal-bhat-8374451a2](https://www.linkedin.com/in/kaushal-bhat-8374451a2/)
 
@@ -22,6 +28,17 @@
 
 - dev-to <img align="left" align="center" alt="kaushal's Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />: [dev.to/k4u5h4l](https://dev.to/k4u5h4l)
 
+</p> -->
+
+<p align="center">
+  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/kaushal-bhat-8374451a2/" alt="Linkedin"><img src="https://github.com/k4u5h4L/k4u5h4L/blob/master/assets/linkedin-fill.svg"></a>
+    <a href="mailto:kaushal.v.bhat@gmail.com" alt="Contact me"><img src="https://github.com/k4u5h4L/k4u5h4L/blob/master/assets/mail-fill.svg"></a>
+    <a href="https://k4u5h4l.github.io" alt="portfolio"><img src="https://github.com/k4u5h4L/k4u5h4L/blob/master/assets/external-link-line.svg"></a>
+  </p>
+  
 </p>
 <br><br>
 
