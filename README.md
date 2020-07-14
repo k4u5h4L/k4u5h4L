@@ -14,7 +14,7 @@
   </details> -->
 </p>
 
-<h2>Get in touch <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
+<h2 align="center">Get in touch <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
 
 <!-- <p align="center"> Got something in mind? Hit me up!</p>
 
@@ -38,11 +38,16 @@
     <a href="mailto:kaushal.v.bhat@gmail.com" alt="Contact me"><img src="https://github.com/k4u5h4L/k4u5h4L/blob/master/assets/mail-fill.svg"></a>
     <a href="https://k4u5h4l.github.io" alt="portfolio"><img src="https://github.com/k4u5h4L/k4u5h4L/blob/master/assets/external-link-line.svg"></a>
   </p>
-  
-</p>
+
 <br><br>
 
+<p align="center">
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=k4u5h4L.visitor-badge)
+
+</p>
+
+</p>
 
 <!--
 **k4u5h4L/k4u5h4L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
