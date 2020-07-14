@@ -31,7 +31,7 @@
 </p> -->
 
 <p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+  <i>Got something in mind? Hit me up!</i>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/kaushal-bhat-8374451a2/" alt="Linkedin"><img src="https://github.com/k4u5h4L/k4u5h4L/blob/master/assets/linkedin-fill.svg"></a>
