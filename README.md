@@ -1,4 +1,4 @@
-<h1 align="center">Kaushal - @k4u5h4L</h1>
+<h1 align="center">Kaushal - <a href="https://k4u5h4l.github.io">@k4u5h4L</a></h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width="100" height="80" />
