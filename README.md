@@ -30,17 +30,6 @@
 
 </p> -->
 
-<p align="center">
-  <i>Got something in mind? Hit me up!</i>
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/kaushal-bhat-8374451a2/" alt="Linkedin"><img src="https://github.com/k4u5h4L/k4u5h4L/blob/master/assets/linkedin-fill.svg"></a>
-    <a href="mailto:kaushal.v.bhat@gmail.com" alt="Contact me"><img src="https://github.com/k4u5h4L/k4u5h4L/blob/master/assets/mail-fill.svg"></a>
-    <a href="https://k4u5h4l.github.io" alt="portfolio"><img src="https://github.com/k4u5h4L/k4u5h4L/blob/master/assets/external-link-line.svg"></a>
-  </p>
-
-<br><br>
-
 <h3 align="center">Languages and tools:</h3>
 <p align="center">
 
@@ -61,6 +50,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
 
 </p>
+
+<br><br>
+
+<p align="center">
+  <i>Got something in mind? Hit me up!</i>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/kaushal-bhat-8374451a2/" alt="Linkedin"><img src="https://github.com/k4u5h4L/k4u5h4L/blob/master/assets/linkedin-fill.svg"></a>
+    <a href="mailto:kaushal.v.bhat@gmail.com" alt="Contact me"><img src="https://github.com/k4u5h4L/k4u5h4L/blob/master/assets/mail-fill.svg"></a>
+    <a href="https://k4u5h4l.github.io" alt="portfolio"><img src="https://github.com/k4u5h4L/k4u5h4L/blob/master/assets/external-link-line.svg"></a>
+  </p>
 
 <br><br>
 
