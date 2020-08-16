@@ -63,17 +63,18 @@
   </p>
 
 <br><br>
-
+<!--
 ![github stats](https://github-readme-stats.vercel.app/api?username=k4u5h4L&show_icons=true)
 
 <br><br>
-
+-->
+<!--
 <p align="center">
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=k4u5h4L.visitor-badge)
 
 </p>
-
+-->
 </p>
 
 <!--
