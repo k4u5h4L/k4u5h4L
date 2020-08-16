@@ -14,8 +14,6 @@
   </details> -->
 </p>
 
-<h2 align="center">Get in touch <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
-
 <!-- <p align="center"> Got something in mind? Hit me up!</p>
 
 - LinkedIn <img align="left" alt="kaushal's LinkdeIN" width="22px" src="https://media.giphy.com/media/kyWNFTml48xUubWUq3/giphy.gif" />: [linkedin.com/in/kaushal-bhat-8374451a2](https://www.linkedin.com/in/kaushal-bhat-8374451a2/)
@@ -52,6 +50,8 @@
 </p>
 
 <br><br>
+
+<h2 align="center">Get in touch <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"></h2>
 
 <p align="center">
   <i>Got something in mind? Hit me up!</i>
