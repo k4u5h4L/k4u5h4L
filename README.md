@@ -32,51 +32,51 @@
 <p align="center">
 
 <img height="50" src="assets/javascript.svg">
-
+&nbsp;
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
 
 <img height="50" src="assets/typescript-icon.svg">
-
+&nbsp;
 <img height="50" src="assets/linux.svg">
-
+&nbsp;
 <img height="50" src="assets/file-type-reactjs.svg">
-
+&nbsp;
 <img height="50" src="assets/file-type-mongo.svg">
-
+&nbsp;
 <img height="50" src="assets/nodejs-icon.svg">
-
+&nbsp;
 <img height="50" src="assets/file-type-cpp2.svg">
-
+&nbsp;
 <img height="50" src="assets/c.svg">
-
+&nbsp;
 <img height="50" src="assets/java.svg">
-
+&nbsp;
 <img height="50" src="assets/python.svg">
-
+&nbsp;
 <img height="45" src="assets/npm.svg">
-
+&nbsp;
 <img height="50" src="assets/git-icon.svg">
-
+&nbsp;
 <img height="50" src="assets/github-octocat.svg">
-
+&nbsp;
 <img height="50" src="assets/terminal.svg">
-
+&nbsp;
 <img height="45" src="assets/express.svg">
-
+&nbsp;
 <img height="50" src="assets/tensorflow.svg">
-
+&nbsp;
 <img height="50" src="assets/keras.svg">
-
+&nbsp;
 <img height="50" src="assets/django.svg">
-
+&nbsp;
 <img height="50" src="assets/flask.svg">
-
+&nbsp;
 <img height="50" src="assets/mysql.svg">
-
+&nbsp;
 <img height="50" src="assets/file-type-vscode.svg">
-
+&nbsp;
 <img height="50" src="assets/firebase.svg">
-
+&nbsp;
 </p>
 
 <br><br>
@@ -87,7 +87,7 @@
   <i>Got something in mind? Hit me up!</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/kaushal-bhat-8374451a2/" alt="Linkedin"><img src="assets/linkedin-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/kaushal-bhat-8374451a2/" alt="Linkedin"><img src="assets/linkedin-fill.svg"></a>&nbsp;
     <a href="mailto:kaushal.v.bhat@gmail.com" alt="Contact me"><img src="assets/mail-fill.svg"></a>
     <a href="https://kaush.me" alt="portfolio"><img src="assets/external-link-line.svg"></a>
   </p>
