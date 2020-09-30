@@ -31,21 +31,51 @@
 <h3 align="center">Languages and tools:</h3>
 <p align="center">
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png"></code>
+<img height="50" src="assets/javascript.svg">
+
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> -->
+
+<img height="50" src="assets/typescript-icon.svg">
+
+<img height="50" src="assets/linux.svg">
+
+<img height="50" src="assets/file-type-reactjs.svg">
+
+<img height="50" src="assets/file-type-mongo.svg">
+
+<img height="50" src="assets/nodejs-icon.svg">
+
+<img height="50" src="assets/file-type-cpp2.svg">
+
+<img height="50" src="assets/c.svg">
+
+<img height="50" src="assets/java.svg">
+
+<img height="50" src="assets/python.svg">
+
+<img height="45" src="assets/npm.svg">
+
+<img height="50" src="assets/git-icon.svg">
+
+<img height="50" src="assets/github-octocat.svg">
+
+<img height="50" src="assets/terminal.svg">
+
+<img height="45" src="assets/express.svg">
+
+<img height="50" src="assets/tensorflow.svg">
+
+<img height="50" src="assets/keras.svg">
+
+<img height="50" src="assets/django.svg">
+
+<img height="50" src="assets/flask.svg">
+
+<img height="50" src="assets/mysql.svg">
+
+<img height="50" src="assets/file-type-vscode.svg">
+
+<img height="50" src="assets/firebase.svg">
 
 </p>
 
@@ -57,12 +87,13 @@
   <i>Got something in mind? Hit me up!</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/kaushal-bhat-8374451a2/" alt="Linkedin"><img src="https://github.com/k4u5h4L/k4u5h4L/blob/master/assets/linkedin-fill.svg"></a>
-    <a href="mailto:kaushal.v.bhat@gmail.com" alt="Contact me"><img src="https://github.com/k4u5h4L/k4u5h4L/blob/master/assets/mail-fill.svg"></a>
-    <a href="https://k4u5h4l.github.io" alt="portfolio"><img src="https://github.com/k4u5h4L/k4u5h4L/blob/master/assets/external-link-line.svg"></a>
+    <a href="https://www.linkedin.com/in/kaushal-bhat-8374451a2/" alt="Linkedin"><img src="assets/linkedin-fill.svg"></a>
+    <a href="mailto:kaushal.v.bhat@gmail.com" alt="Contact me"><img src="assets/mail-fill.svg"></a>
+    <a href="https://kaush.me" alt="portfolio"><img src="assets/external-link-line.svg"></a>
   </p>
 
 <br><br>
+
 <!--
 ![github stats](https://github-readme-stats.vercel.app/api?username=k4u5h4L&show_icons=true)
 
@@ -70,7 +101,7 @@
 -->
 <p align="center">
 
-![Profile views](https://gpvc.arturio.dev/k4u5h4L)  
+![Profile views](https://gpvc.arturio.dev/k4u5h4L)
 
 </p>
 </p>
