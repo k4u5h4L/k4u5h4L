@@ -37,7 +37,15 @@
 
 <img height="50" src="assets/typescript-icon.svg">
 &nbsp;
+<img height="50" src="assets/graphql.svg">
+&nbsp;
+<img height="50" src="assets/apollographql.svg">
+&nbsp;
+<img height="50" src="assets/nextjs.svg">
+&nbsp;
 <img height="50" src="assets/linux.svg">
+&nbsp;
+<img height="50" src="assets/arch-linux.svg">
 &nbsp;
 <img height="50" src="assets/file-type-reactjs.svg">
 &nbsp;
@@ -55,6 +63,8 @@
 &nbsp;
 <img height="45" src="assets/npm.svg">
 &nbsp;
+<img height="45" src="assets/yarn.svg">
+&nbsp;
 <img height="50" src="assets/git-icon.svg">
 &nbsp;
 <img height="50" src="assets/github-octocat.svg">
@@ -71,7 +81,15 @@
 &nbsp;
 <img height="50" src="assets/flask.svg">
 &nbsp;
+<img height="50" src="assets/fastapi.svg">
+&nbsp;
 <img height="50" src="assets/mysql.svg">
+&nbsp;
+<img height="50" src="assets/postgresql.svg">
+&nbsp;
+<img height="50" src="assets/sqlite.svg">
+&nbsp;
+<img height="50" src="assets/file-type-light-prisma.svg">
 &nbsp;
 <img height="50" src="assets/file-type-vscode.svg">
 &nbsp;
