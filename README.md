@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width="100" height="80" />
   <br><br>
   <p>
-     Hey there 👋, I'm Kaushal, a student studying information science and engineering in Bengaluru. I'm a full stack developer (MERN stack), a cyber security enthusiast and an open source lover. I occasionally mess around with ML and AI with Python.
+     Hey there 👋, I'm Kaushal, a student studying information science and engineering in Bengaluru. I'm a full stack developer, a cyber security enthusiast and an open source lover. I occasionally mess around with ML and AI with Python.
   </p>
 
   <br>
@@ -93,8 +93,8 @@
 &nbsp;
 <img height="50" src="assets/file-type-vscode.svg">
 &nbsp;
-<img height="50" src="assets/firebase.svg">
-&nbsp;
+<!-- <img height="50" src="assets/firebase.svg">
+&nbsp; -->
 </p>
 
 <br><br>
