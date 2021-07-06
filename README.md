@@ -53,11 +53,13 @@
 &nbsp;
 <img height="50" src="assets/nodejs-icon.svg">
 &nbsp;
-<img height="50" src="assets/file-type-cpp2.svg">
+<!-- <img height="50" src="assets/file-type-cpp2.svg">
 &nbsp;
 <img height="50" src="assets/c.svg">
 &nbsp;
 <img height="50" src="assets/java.svg">
+&nbsp; -->
+<img height="50" src="assets/electron.svg">
 &nbsp;
 <img height="50" src="assets/python.svg">
 &nbsp;
