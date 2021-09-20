@@ -63,6 +63,10 @@
 &nbsp;
 <img height="50" src="assets/python.svg">
 &nbsp;
+<img height="50" src="assets/dart.svg">
+&nbsp;
+<img height="50" src="assets/flutter.svg">
+&nbsp;
 <img height="45" src="assets/npm.svg">
 &nbsp;
 <img height="45" src="assets/yarn.svg">
