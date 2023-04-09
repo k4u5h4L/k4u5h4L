@@ -112,7 +112,7 @@
 
   <p align="center">
     <a href="https://www.linkedin.com/in/kaushal-bhat-8374451a2/" alt="Linkedin"><img src="assets/linkedin-fill.svg"></a>&nbsp;
-    <a href="mailto:kaushal.v.bhat@gmail.com" alt="Contact me"><img src="assets/mail-fill.svg"></a>
+    <a href="mailto:kaushal@kaush.me" alt="Contact me"><img src="assets/mail-fill.svg"></a>
     <a href="https://kaush.me" alt="portfolio"><img src="assets/external-link-line.svg"></a>
   </p>
 
