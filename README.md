@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width="100" height="80" />
   <br><br>
   <p>
-     Hey there 👋, I'm Kaushal, a student studying information science and engineering in Bengaluru. I'm a full stack developer, a cyber security enthusiast and an open source lover. I occasionally mess around with ML and AI with Python.
+     Hey there 👋, I'm Kaushal, a student studying Computer Science at the University of Warwick in the UK. I'm a full stack developer, a cyber security enthusiast and an open source lover. I occasionally mess around with ML and AI with Python.
   </p>
 
   <br>
@@ -18,11 +18,11 @@
 
 - LinkedIn <img align="left" alt="kaushal's LinkdeIN" width="22px" src="https://media.giphy.com/media/kyWNFTml48xUubWUq3/giphy.gif" />: [linkedin.com/in/kaushal-bhat-8374451a2](https://www.linkedin.com/in/kaushal-bhat-8374451a2/)
 
-- Mail <img align="left" align="center" alt="kaushal's mail" width="22px" src="https://media.giphy.com/media/UrCybfHo3r1kmTZfJR/giphy.gif" />: [kaushal.bhat@yahoo.com](mailto:kaushal.bhat@yahoo.com)
+- Mail <img align="left" align="center" alt="kaushal's mail" width="22px" src="https://media.giphy.com/media/UrCybfHo3r1kmTZfJR/giphy.gif" />: [kaushal@kaush.me](mailto:kaushal@kaush.me)
 
 - Portfolio <a href="mailto:kaushal.v.bhat@gmail.com">
   <img align="left" align="center" alt="kaushal's mail" width="22px" src="https://media.giphy.com/media/lmjnyWWSXleEckhv0c/giphy.gif" />
-  </a>: [k4u5h4l.github.io](https://k4u5h4l.github.io/)
+  </a>: [kaush.me](https://kaush.me/)
 
 - dev-to <img align="left" align="center" alt="kaushal's Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" />: [dev.to/k4u5h4l](https://dev.to/k4u5h4l)
 
@@ -111,7 +111,7 @@
   <i>Got something in mind? Hit me up!</i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/kaushal-bhat-8374451a2/" alt="Linkedin"><img src="assets/linkedin-fill.svg"></a>&nbsp;
+    <a href="https://www.linkedin.com/in/kaushal-bhat/" alt="Linkedin"><img src="assets/linkedin-fill.svg"></a>&nbsp;
     <a href="mailto:kaushal@kaush.me" alt="Contact me"><img src="assets/mail-fill.svg"></a>
     <a href="https://kaush.me" alt="portfolio"><img src="assets/external-link-line.svg"></a>
   </p>
