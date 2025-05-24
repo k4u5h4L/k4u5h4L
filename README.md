@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/3ohs4f2bZ4jSd2q5tS/giphy.gif" width="100" height="80" />
   <br><br>
   <p>
-     Hey there 👋, I'm Kaushal, a student studying Computer Science at the University of Warwick in the UK. I'm a full stack developer, a cyber security enthusiast and an open source lover. I occasionally mess around with ML and AI with Python.
+     Hey there 👋, I'm Kaushal, a software engineer at Barclays, Glasgow, and a Computer Science MSc graduate from the University of Warwick in England. I'm a full stack developer, a cyber security enthusiast and an open source lover. I occasionally mess around with ML and AI with Python.
   </p>
 
   <br>
@@ -28,7 +28,7 @@
 
 </p> -->
 
-<h3 align="center">Languages and tools:</h3>
+<h3 align="center">Languages and tools (my tech stack keeps shifting, so this list is really old 😉 )</h3>
 <p align="center">
 
 <img height="50" src="assets/javascript.svg">
@@ -123,11 +123,6 @@
 
 <br><br>
 -->
-<p align="center">
-
-![Profile views](https://gpvc.arturio.dev/k4u5h4L)
-
-</p>
 </p>
 
 <!--
